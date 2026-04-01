@@ -93,11 +93,7 @@ identificados y resueltos como parte del análisis.
 
 ```
 ├── data/
-│   └── E-ShopNow_Proyecto_ABP_M2.csv   # Dataset original
-├── excel/
-│   └── analisis_eshopnow.xlsx           # Archivo de trabajo final
-├── docs/
-│   └── informe_conclusiones.pdf         # Informe de hallazgos
+│   └── E-ShopNow_Proyecto_ABP_M2.csv 
 └── README.md
 ```
 
